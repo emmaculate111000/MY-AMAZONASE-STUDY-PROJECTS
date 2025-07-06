@@ -47,7 +47,7 @@ Hi! I'm a data analyst passionate about turning raw data into impactful business
 - Created exce visualizations for sales velocity, return rate, and ratings.
 - Helped pinpoint best time-to-market windows and product categories.
 
-**🔗 Dashboard:** [EXCE ] (#)  
+**🔗 Dashboard:** [EXCEL ] (#)  
 **📁 Repo:** [`https://excel.cloud.microsoft/open/onedrive/?docId=C696930DD98338F8%21s4b84e4b5c3e54ab39d4a1cac20bb2e5b&driveId=C696930DD98338F8`](#)
 
 ---
