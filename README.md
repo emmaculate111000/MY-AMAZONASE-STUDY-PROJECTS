@@ -11,8 +11,8 @@ Hi! I'm a data analyst passionate about turning raw data into impactful business
 **Tools:** Excel, Power BI  
 **Summary:** Built an interactive dashboard analyzing Amazon sales trends by product and category.  
 **Highlights:**
-- Cleaned a 100k+ row dataset in Excel.
-- Created KPI dashboards in Power BI.
+- Cleaned a 1k+ row dataset in Excel.
+- Created KPI dashboards in excel.
 - Recommended strategies for underperforming product categories.
 
 **🔗 Demo:** [View excel Dashboard](#)  
@@ -24,7 +24,7 @@ Hi! I'm a data analyst passionate about turning raw data into impactful business
 **Tools:** excel  
 **Summary:** Performed sentiment analysis on 50,000+ Amazon reviews.  
 **Highlights:**
-- Text cleaning, tokenization, and sentiment scoring.
+- Text cleaning,modifing, and sentiment scoring.
 - Visualized positive/negative trends by product.
 - Analyzed correlation between review sentiment and ratings.
  
