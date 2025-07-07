@@ -69,4 +69,4 @@ Hi! I'm a data analyst passionate about turning raw data into impactful business
 
 ---
 
-> 💡 Check out each project folder for code, data, and documentation!
+> 💡 Check out each project folder for data, and documentation!
