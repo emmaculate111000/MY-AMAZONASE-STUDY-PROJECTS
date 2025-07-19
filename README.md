@@ -22,7 +22,7 @@ Hi! I'm a data analyst passionate about turning raw data into impactful business
 
 ### 2. 💬 Amazon Review Sentiment Analysis
 **Tools:** excel  
-**Summary:** Performed sentiment analysis on 50,000+ Amazon reviews.  
+**Summary:** Performed sentiment analysis on 2,000+ Amazon reviews.  
 **Highlights:**
 - Text cleaning,modifing, and sentiment scoring.
 - Visualized positive/negative trends by product.
